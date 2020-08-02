@@ -33,9 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_14_conversiones
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_ejercicios", "CursoCSharp_ejercicios\CursoCSharp_ejercicios.csproj", "{FA31CAF8-F2FE-410D-B797-CAAAB9DA7510}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo4", "Modulo4", "{F6E7C76B-6521-4A9C-9CE3-1C942CCF84E5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metodos y funciones", "Metodos y funciones", "{F6E7C76B-6521-4A9C-9CE3-1C942CCF84E5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo3", "Modulo3", "{8E114553-1494-4BC5-A514-1403E820AA06}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduccion a C Sharp", "Introduccion a C Sharp", "{8E114553-1494-4BC5-A514-1403E820AA06}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_metodos", "CursoCSharp_metodos\CursoCSharp_1_metodos.csproj", "{F35386D6-9EDA-41B5-B274-3A41F209387F}"
 EndProject
@@ -48,6 +48,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_5_funciones_locales", "CursoCSharp_5_funciones_locales\CursoCSharp_5_funciones_locales.csproj", "{A56E43B3-4610-45B3-A28C-3D54D66CD25B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_ejemplo_funciones", "CursoCSharp_6_ejemplo_funciones\CursoCSharp_6_ejemplo_funciones.csproj", "{9EA30B5E-5D42-4699-A0F2-EB56892CF0AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cadenas", "Cadenas", "{A17F524B-0378-4D9F-9855-4736A8ED88B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_cadenas", "CursoCSharp_1_cadenas\CursoCSharp_1_cadenas.csproj", "{EDAE349C-3B63-471A-B18F-73FB0E4B144A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_formato_fecha", "CursoCSharp_2_formato_fecha\CursoCSharp_2_formato_fecha.csproj", "{B4FB7BFF-BD5E-40D0-9060-93688CE75C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_concatenar_cadenas", "CursoCSharp_3_concatenar_cadenas\CursoCSharp_3_concatenar_cadenas.csproj", "{9BB84729-E34E-4723-89FF-6D5DC4FE9030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_stringbuilder", "CursoCSharp_4_stringbuilder\CursoCSharp_4_stringbuilder.csproj", "{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_5_operaciones_cadenas", "CursoCSharp_5_operaciones_cadenas\CursoCSharp_5_operaciones_cadenas.csproj", "{1A221B54-99A0-452B-9D45-C6C657595457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +151,26 @@ Global
 		{9EA30B5E-5D42-4699-A0F2-EB56892CF0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EA30B5E-5D42-4699-A0F2-EB56892CF0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EA30B5E-5D42-4699-A0F2-EB56892CF0AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAE349C-3B63-471A-B18F-73FB0E4B144A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE349C-3B63-471A-B18F-73FB0E4B144A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE349C-3B63-471A-B18F-73FB0E4B144A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE349C-3B63-471A-B18F-73FB0E4B144A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FB7BFF-BD5E-40D0-9060-93688CE75C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FB7BFF-BD5E-40D0-9060-93688CE75C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FB7BFF-BD5E-40D0-9060-93688CE75C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FB7BFF-BD5E-40D0-9060-93688CE75C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB84729-E34E-4723-89FF-6D5DC4FE9030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB84729-E34E-4723-89FF-6D5DC4FE9030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB84729-E34E-4723-89FF-6D5DC4FE9030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB84729-E34E-4723-89FF-6D5DC4FE9030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A221B54-99A0-452B-9D45-C6C657595457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A221B54-99A0-452B-9D45-C6C657595457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A221B54-99A0-452B-9D45-C6C657595457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A221B54-99A0-452B-9D45-C6C657595457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +197,11 @@ Global
 		{055301D4-AADD-4FE5-8410-159BD51E6B94} = {F6E7C76B-6521-4A9C-9CE3-1C942CCF84E5}
 		{A56E43B3-4610-45B3-A28C-3D54D66CD25B} = {F6E7C76B-6521-4A9C-9CE3-1C942CCF84E5}
 		{9EA30B5E-5D42-4699-A0F2-EB56892CF0AC} = {F6E7C76B-6521-4A9C-9CE3-1C942CCF84E5}
+		{EDAE349C-3B63-471A-B18F-73FB0E4B144A} = {A17F524B-0378-4D9F-9855-4736A8ED88B3}
+		{B4FB7BFF-BD5E-40D0-9060-93688CE75C50} = {A17F524B-0378-4D9F-9855-4736A8ED88B3}
+		{9BB84729-E34E-4723-89FF-6D5DC4FE9030} = {A17F524B-0378-4D9F-9855-4736A8ED88B3}
+		{8F56F14D-A37F-4CD6-BAF9-66D1F136AE4D} = {A17F524B-0378-4D9F-9855-4736A8ED88B3}
+		{1A221B54-99A0-452B-9D45-C6C657595457} = {A17F524B-0378-4D9F-9855-4736A8ED88B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BADC9A8-C7FB-4209-8BB5-2B79BAAC0089}
