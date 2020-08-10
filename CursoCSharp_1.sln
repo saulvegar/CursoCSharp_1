@@ -157,6 +157,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serializacion", "Serializac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_serializacion", "CursoCSharp_1_serializacion\CursoCSharp_1_serializacion.csproj", "{A39F2144-2CC9-4A34-81EB-D7425E84968E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trabajando con archivos y Streams", "Trabajando con archivos y Streams", "{4D11D471-58E3-4B87-B1F1-108140D7A834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_introduccion_excepciones", "CursoCSharp_1_introduccion_excepciones\CursoCSharp_1_introduccion_excepciones.csproj", "{5232BAC2-975A-4E96-84C5-C29AAA049E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_exceptions_1", "CursoCSharp_2_exceptions_1\CursoCSharp_2_exceptions_1.csproj", "{17ED4DD8-EB63-4E09-84C2-B152D89535B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_exceptions_2", "CursoCSharp_3_exceptions_2\CursoCSharp_3_exceptions_2.csproj", "{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -431,6 +439,18 @@ Global
 		{A39F2144-2CC9-4A34-81EB-D7425E84968E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A39F2144-2CC9-4A34-81EB-D7425E84968E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A39F2144-2CC9-4A34-81EB-D7425E84968E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5232BAC2-975A-4E96-84C5-C29AAA049E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5232BAC2-975A-4E96-84C5-C29AAA049E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5232BAC2-975A-4E96-84C5-C29AAA049E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5232BAC2-975A-4E96-84C5-C29AAA049E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17ED4DD8-EB63-4E09-84C2-B152D89535B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17ED4DD8-EB63-4E09-84C2-B152D89535B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17ED4DD8-EB63-4E09-84C2-B152D89535B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17ED4DD8-EB63-4E09-84C2-B152D89535B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -503,6 +523,9 @@ Global
 		{A7F175EF-73C5-45B3-B272-7552F08E796B} = {24C80CB3-870F-45C2-A35F-91562549A8A8}
 		{F58D5FFE-9DC8-4AED-A68F-3F772EEC04CA} = {24C80CB3-870F-45C2-A35F-91562549A8A8}
 		{A39F2144-2CC9-4A34-81EB-D7425E84968E} = {DC72338E-74D5-4053-A9C1-E1EE93733749}
+		{5232BAC2-975A-4E96-84C5-C29AAA049E32} = {ADF8E961-3114-44B5-B74A-5839CDE425D4}
+		{17ED4DD8-EB63-4E09-84C2-B152D89535B8} = {ADF8E961-3114-44B5-B74A-5839CDE425D4}
+		{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867} = {ADF8E961-3114-44B5-B74A-5839CDE425D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BADC9A8-C7FB-4209-8BB5-2B79BAAC0089}
