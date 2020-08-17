@@ -97,87 +97,99 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_constantes_cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_campos_propiedades", "CursoCSharp_5_campos_propiedades\CursoCSharp_5_campos_propiedades.csproj", "{35655B94-40E6-496A-8FAC-9C6549B2C6B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_metodos", "CursoCSharp_6_metodos\CursoCSharp_6_metodos.csproj", "{291521DC-21CF-47CF-9469-40EC10A0C071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_6_metodos", "CursoCSharp_6_metodos\CursoCSharp_6_metodos.csproj", "{291521DC-21CF-47CF-9469-40EC10A0C071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_7_nivel_accesibilidad", "CursoCSharp_7_nivel_accesibilidad\CursoCSharp_7_nivel_accesibilidad.csproj", "{654B403D-5163-4453-8603-72BB097FDD52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_7_nivel_accesibilidad", "CursoCSharp_7_nivel_accesibilidad\CursoCSharp_7_nivel_accesibilidad.csproj", "{654B403D-5163-4453-8603-72BB097FDD52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_8_clases_abstractas", "CursoCSharp_8_clases_abstractas\CursoCSharp_8_clases_abstractas.csproj", "{E1498AF0-01F2-49EF-B17D-F2BFD6D82CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_8_clases_abstractas", "CursoCSharp_8_clases_abstractas\CursoCSharp_8_clases_abstractas.csproj", "{E1498AF0-01F2-49EF-B17D-F2BFD6D82CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_9_sealed", "CursoCSharp_9_sealed\CursoCSharp_9_sealed.csproj", "{8885F68E-6CD1-4620-9A44-459EFDB8A26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_9_sealed", "CursoCSharp_9_sealed\CursoCSharp_9_sealed.csproj", "{8885F68E-6CD1-4620-9A44-459EFDB8A26A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_10_clases_estaticas", "CursoCSharp_10_clases_estaticas\CursoCSharp_10_clases_estaticas.csproj", "{21546487-8ACD-480C-A6E0-1BE4751E4909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_10_clases_estaticas", "CursoCSharp_10_clases_estaticas\CursoCSharp_10_clases_estaticas.csproj", "{21546487-8ACD-480C-A6E0-1BE4751E4909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_11_metodosExtension", "CursoCSharp_11_metodosExtension\CursoCSharp_11_metodosExtension.csproj", "{0E1FA831-115E-4327-8FC4-01A78FA839F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_11_metodosExtension", "CursoCSharp_11_metodosExtension\CursoCSharp_11_metodosExtension.csproj", "{0E1FA831-115E-4327-8FC4-01A78FA839F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_12_bodied_members", "CursoCSharp_12_bodied_members\CursoCSharp_12_bodied_members.csproj", "{6BF2712D-B985-4AB6-87C0-7E679B478557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_12_bodied_members", "CursoCSharp_12_bodied_members\CursoCSharp_12_bodied_members.csproj", "{6BF2712D-B985-4AB6-87C0-7E679B478557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_13_constructores", "CursoCSharp_13_constructores\CursoCSharp_13_constructores.csproj", "{5F7E25AA-307E-45FF-8D14-BAD3C3FB007C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_13_constructores", "CursoCSharp_13_constructores\CursoCSharp_13_constructores.csproj", "{5F7E25AA-307E-45FF-8D14-BAD3C3FB007C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_14_destructores", "CursoCSharp_14_destructores\CursoCSharp_14_destructores.csproj", "{1C3A4539-CF33-4B69-AF98-E5BFBEE69F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_14_destructores", "CursoCSharp_14_destructores\CursoCSharp_14_destructores.csproj", "{1C3A4539-CF33-4B69-AF98-E5BFBEE69F4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_15_sobrecarga_operadores", "CursoCSharp_15_sobrecarga_operadores\CursoCSharp_15_sobrecarga_operadores.csproj", "{76A53B41-597C-4117-AC86-4BFB88D5374C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_15_sobrecarga_operadores", "CursoCSharp_15_sobrecarga_operadores\CursoCSharp_15_sobrecarga_operadores.csproj", "{76A53B41-597C-4117-AC86-4BFB88D5374C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{F3795441-6A58-42AE-AF6C-177028695F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_interfaces", "CursoCSharp_1_interfaces\CursoCSharp_1_interfaces.csproj", "{F2EB4A26-A0C7-40D6-B95E-B8C500E8A10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_interfaces", "CursoCSharp_1_interfaces\CursoCSharp_1_interfaces.csproj", "{F2EB4A26-A0C7-40D6-B95E-B8C500E8A10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_interfaz_IDisposable", "CursoCSharp_2_interfaz_IDisposable\CursoCSharp_2_interfaz_IDisposable.csproj", "{679DB65C-1E39-448E-8AAF-0DF9AF6B1D66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_interfaz_IDisposable", "CursoCSharp_2_interfaz_IDisposable\CursoCSharp_2_interfaz_IDisposable.csproj", "{679DB65C-1E39-448E-8AAF-0DF9AF6B1D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_diferencias_interfaces_clasesAbstractas", "CursoCSharp_3_diferencias_interfaces_clasesAbstractas\CursoCSharp_3_diferencias_interfaces_clasesAbstractas.csproj", "{B03523AD-5C52-4C86-BC58-D5DCCD56181B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_diferencias_interfaces_clasesAbstractas", "CursoCSharp_3_diferencias_interfaces_clasesAbstractas\CursoCSharp_3_diferencias_interfaces_clasesAbstractas.csproj", "{B03523AD-5C52-4C86-BC58-D5DCCD56181B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Conceptos avanzados", "Conceptos avanzados", "{24C80CB3-870F-45C2-A35F-91562549A8A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_delegados", "CursoCSharp_1_delegados\CursoCSharp_1_delegados.csproj", "{A10FC47C-657B-4637-B900-CD66B1CE1A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_delegados", "CursoCSharp_1_delegados\CursoCSharp_1_delegados.csproj", "{A10FC47C-657B-4637-B900-CD66B1CE1A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_metodos_anonimos", "CursoCSharp_3_metodos_anonimos\CursoCSharp_3_metodos_anonimos.csproj", "{9B744515-94B8-44D6-BD62-F0B4927E8A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_metodos_anonimos", "CursoCSharp_3_metodos_anonimos\CursoCSharp_3_metodos_anonimos.csproj", "{9B744515-94B8-44D6-BD62-F0B4927E8A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_tipos_dinamicos", "CursoCSharp_4_tipos_dinamicos\CursoCSharp_4_tipos_dinamicos.csproj", "{1E3E5A1C-1172-4359-82CD-970A70605532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_tipos_dinamicos", "CursoCSharp_4_tipos_dinamicos\CursoCSharp_4_tipos_dinamicos.csproj", "{1E3E5A1C-1172-4359-82CD-970A70605532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_5_enumerados", "CursoCSharp_5_enumerados\CursoCSharp_5_enumerados.csproj", "{6E53C9EE-AA05-4B33-86F5-E2C3B1FF64F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_enumerados", "CursoCSharp_5_enumerados\CursoCSharp_5_enumerados.csproj", "{6E53C9EE-AA05-4B33-86F5-E2C3B1FF64F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_espacios_nombre", "CursoCSharp_6_espacios_nombre\CursoCSharp_6_espacios_nombre.csproj", "{FD2C1B5F-29E6-41F0-9A10-80B0195D580B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_6_espacios_nombre", "CursoCSharp_6_espacios_nombre\CursoCSharp_6_espacios_nombre.csproj", "{FD2C1B5F-29E6-41F0-9A10-80B0195D580B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_7_instruccion_using", "CursoCSharp_7_instruccion_using\CursoCSharp_7_instruccion_using.csproj", "{D483537B-3106-43C2-B96D-A8A8E90AD324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_7_instruccion_using", "CursoCSharp_7_instruccion_using\CursoCSharp_7_instruccion_using.csproj", "{D483537B-3106-43C2-B96D-A8A8E90AD324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_8_tuplas", "CursoCSharp_8_tuplas\CursoCSharp_8_tuplas.csproj", "{87CA7DEE-5FC2-467C-9FF6-3F56618835A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_8_tuplas", "CursoCSharp_8_tuplas\CursoCSharp_8_tuplas.csproj", "{87CA7DEE-5FC2-467C-9FF6-3F56618835A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_9_diccionario", "CursoCSharp_9_diccionario\CursoCSharp_9_diccionario.csproj", "{4D81F53A-CE25-4B19-A193-23315BD3DA3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_9_diccionario", "CursoCSharp_9_diccionario\CursoCSharp_9_diccionario.csproj", "{4D81F53A-CE25-4B19-A193-23315BD3DA3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_eventos", "CursoCSharp_2_eventos\CursoCSharp_2_eventos.csproj", "{BA803F5B-1B29-47AC-AC7C-A3B99942DB0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_eventos", "CursoCSharp_2_eventos\CursoCSharp_2_eventos.csproj", "{BA803F5B-1B29-47AC-AC7C-A3B99942DB0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_11_genericos", "CursoCSharp_11_genericos\CursoCSharp_11_genericos.csproj", "{D4602466-EF54-4641-9D5B-4938829422B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_11_genericos", "CursoCSharp_11_genericos\CursoCSharp_11_genericos.csproj", "{D4602466-EF54-4641-9D5B-4938829422B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_12_depuracion", "CursoCSharp_12_depuracion\CursoCSharp_12_depuracion.csproj", "{A7F175EF-73C5-45B3-B272-7552F08E796B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_12_depuracion", "CursoCSharp_12_depuracion\CursoCSharp_12_depuracion.csproj", "{A7F175EF-73C5-45B3-B272-7552F08E796B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tratamiento de excepciones", "Tratamiento de excepciones", "{ADF8E961-3114-44B5-B74A-5839CDE425D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_10_boxing_unboxing", "CursoCSharp_10_boxing_unboxing\CursoCSharp_10_boxing_unboxing.csproj", "{F58D5FFE-9DC8-4AED-A68F-3F772EEC04CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_10_boxing_unboxing", "CursoCSharp_10_boxing_unboxing\CursoCSharp_10_boxing_unboxing.csproj", "{F58D5FFE-9DC8-4AED-A68F-3F772EEC04CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serializacion", "Serializacion", "{DC72338E-74D5-4053-A9C1-E1EE93733749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_serializacion", "CursoCSharp_1_serializacion\CursoCSharp_1_serializacion.csproj", "{A39F2144-2CC9-4A34-81EB-D7425E84968E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_serializacion", "CursoCSharp_1_serializacion\CursoCSharp_1_serializacion.csproj", "{A39F2144-2CC9-4A34-81EB-D7425E84968E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trabajando con archivos y Streams", "Trabajando con archivos y Streams", "{4D11D471-58E3-4B87-B1F1-108140D7A834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_introduccion_excepciones", "CursoCSharp_1_introduccion_excepciones\CursoCSharp_1_introduccion_excepciones.csproj", "{5232BAC2-975A-4E96-84C5-C29AAA049E32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_introduccion_excepciones", "CursoCSharp_1_introduccion_excepciones\CursoCSharp_1_introduccion_excepciones.csproj", "{5232BAC2-975A-4E96-84C5-C29AAA049E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_exceptions_1", "CursoCSharp_2_exceptions_1\CursoCSharp_2_exceptions_1.csproj", "{17ED4DD8-EB63-4E09-84C2-B152D89535B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_exceptions_1", "CursoCSharp_2_exceptions_1\CursoCSharp_2_exceptions_1.csproj", "{17ED4DD8-EB63-4E09-84C2-B152D89535B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_exceptions_2", "CursoCSharp_3_exceptions_2\CursoCSharp_3_exceptions_2.csproj", "{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_exceptions_2", "CursoCSharp_3_exceptions_2\CursoCSharp_3_exceptions_2.csproj", "{7AFCCA6C-DFDC-4E10-8E2A-2B23ACAF9867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_memorystream", "CursoCSharp_1_memorystream\CursoCSharp_1_memorystream.csproj", "{878A97D7-36E2-468F-9273-1F3F0EA2EF87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_memorystream", "CursoCSharp_1_memorystream\CursoCSharp_1_memorystream.csproj", "{878A97D7-36E2-468F-9273-1F3F0EA2EF87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_seek", "CursoCSharp_2_seek\CursoCSharp_2_seek.csproj", "{9B1F5E51-5618-474C-8D51-146E49CBC35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_seek", "CursoCSharp_2_seek\CursoCSharp_2_seek.csproj", "{9B1F5E51-5618-474C-8D51-146E49CBC35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_leer_datos_stream", "CursoCSharp_3_leer_datos_stream\CursoCSharp_3_leer_datos_stream.csproj", "{942321A9-9206-48A4-A410-3E3B1F57B604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_leer_datos_stream", "CursoCSharp_3_leer_datos_stream\CursoCSharp_3_leer_datos_stream.csproj", "{942321A9-9206-48A4-A410-3E3B1F57B604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_escribir_datos_stream", "CursoCSharp_4_escribir_datos_stream\CursoCSharp_4_escribir_datos_stream.csproj", "{28577F80-2388-4FE1-A823-662D68E32609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_escribir_datos_stream", "CursoCSharp_4_escribir_datos_stream\CursoCSharp_4_escribir_datos_stream.csproj", "{28577F80-2388-4FE1-A823-662D68E32609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_5_introduccion_archivos", "CursoCSharp_5_introduccion_archivos\CursoCSharp_5_introduccion_archivos.csproj", "{9A9B65E8-1FB8-49BC-A1EE-9A12280EE85A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_introduccion_archivos", "CursoCSharp_5_introduccion_archivos\CursoCSharp_5_introduccion_archivos.csproj", "{9A9B65E8-1FB8-49BC-A1EE-9A12280EE85A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_escribir_datos_archivo", "CursoCSharp_6_escribir_datos_archivo\CursoCSharp_6_escribir_datos_archivo.csproj", "{E62B2285-DA34-4F94-928C-AE33F7D17997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_6_escribir_datos_archivo", "CursoCSharp_6_escribir_datos_archivo\CursoCSharp_6_escribir_datos_archivo.csproj", "{E62B2285-DA34-4F94-928C-AE33F7D17997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_7_leer_archivo", "CursoCSharp_7_leer_archivo\CursoCSharp_7_leer_archivo.csproj", "{E6DAAA1B-169D-4255-A90E-4936F5CF21E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_7_leer_archivo", "CursoCSharp_7_leer_archivo\CursoCSharp_7_leer_archivo.csproj", "{E6DAAA1B-169D-4255-A90E-4936F5CF21E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programacion asincrona", "Programacion asincrona", "{E1A38792-66ED-4F4F-BB8B-A18EB0613F46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_programacion_asincrona_1", "CursoCSharp_1_programacion_asincrona_1\CursoCSharp_1_programacion_asincrona_1.csproj", "{4667C1FC-7A15-48F1-B79A-20E694D40BC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_programacion_asincrona_2", "CursoCSharp_2_programacion_asincrona_2\CursoCSharp_2_programacion_asincrona_2.csproj", "{FE6BCD9B-439D-4115-9749-FC26F15C61D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_programacion_asincrona_3", "CursoCSharp_3_programacion_asincrona_3\CursoCSharp_3_programacion_asincrona_3.csproj", "{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_programacion_asincrona_4", "CursoCSharp_programacion_asincrona_4\CursoCSharp_programacion_asincrona_4.csproj", "{485BC833-FFD0-4B82-832E-31D19CA38A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_programacion_asincrona_5", "CursoCSharp_programacion_asincrona_5\CursoCSharp_programacion_asincrona_5.csproj", "{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -493,6 +505,26 @@ Global
 		{E6DAAA1B-169D-4255-A90E-4936F5CF21E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6DAAA1B-169D-4255-A90E-4936F5CF21E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6DAAA1B-169D-4255-A90E-4936F5CF21E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4667C1FC-7A15-48F1-B79A-20E694D40BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4667C1FC-7A15-48F1-B79A-20E694D40BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4667C1FC-7A15-48F1-B79A-20E694D40BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4667C1FC-7A15-48F1-B79A-20E694D40BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6BCD9B-439D-4115-9749-FC26F15C61D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6BCD9B-439D-4115-9749-FC26F15C61D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6BCD9B-439D-4115-9749-FC26F15C61D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6BCD9B-439D-4115-9749-FC26F15C61D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485BC833-FFD0-4B82-832E-31D19CA38A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485BC833-FFD0-4B82-832E-31D19CA38A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485BC833-FFD0-4B82-832E-31D19CA38A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485BC833-FFD0-4B82-832E-31D19CA38A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -575,6 +607,11 @@ Global
 		{9A9B65E8-1FB8-49BC-A1EE-9A12280EE85A} = {4D11D471-58E3-4B87-B1F1-108140D7A834}
 		{E62B2285-DA34-4F94-928C-AE33F7D17997} = {4D11D471-58E3-4B87-B1F1-108140D7A834}
 		{E6DAAA1B-169D-4255-A90E-4936F5CF21E2} = {4D11D471-58E3-4B87-B1F1-108140D7A834}
+		{4667C1FC-7A15-48F1-B79A-20E694D40BC6} = {E1A38792-66ED-4F4F-BB8B-A18EB0613F46}
+		{FE6BCD9B-439D-4115-9749-FC26F15C61D8} = {E1A38792-66ED-4F4F-BB8B-A18EB0613F46}
+		{A1C80D68-F4C4-4E1E-A628-EAE0BBAEC3D3} = {E1A38792-66ED-4F4F-BB8B-A18EB0613F46}
+		{485BC833-FFD0-4B82-832E-31D19CA38A3E} = {E1A38792-66ED-4F4F-BB8B-A18EB0613F46}
+		{27ED881F-E5E0-4DF2-ABB7-AE7E0E0750C9} = {E1A38792-66ED-4F4F-BB8B-A18EB0613F46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2BADC9A8-C7FB-4209-8BB5-2B79BAAC0089}
